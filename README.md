@@ -1,4 +1,4 @@
-## Welcome to CS3451: Compputer Graphics
+## Welcome to CS3451: Computer Graphics
 
 This organization is for the CS3451 class taught by [Blair MacIntyre](https://blairmacintyre.me).  
 
